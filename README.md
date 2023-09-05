@@ -1,1 +1,1 @@
-# Interfface_servomotor_with_raspberry_pi4
+# Interface_servomotor_with_raspberry_pi4
